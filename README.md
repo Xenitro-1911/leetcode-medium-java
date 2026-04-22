@@ -24,7 +24,7 @@ Each problem folder contains:
 
 ---
 
-## Problems Solved (7)
+## Problems Solved (10)
 
 | # | Problem | Topic |
 |---|---------|-------|
@@ -35,6 +35,9 @@ Each problem folder contains:
 | 007 | Reverse Integer | Math |
 | 008 | String to Integer (atoi) | String/Parsing |
 | 011 | Container With Most Water | Two Pointers |
+| 012 | Integer to Roman | Math/String |
+| 015 | 3Sum | Two Pointers |
+| 016 | 3Sum Closest | Two Pointers |
 
 ---
 
